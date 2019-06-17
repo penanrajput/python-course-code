@@ -152,16 +152,18 @@ PythonCourseContent:.
     │   practice.ipynb
     │   python-string-formatting-flowchart.webp
     │
+│   └───.ipynb_checkpoints
+│           1. Arithmetic, Relational Operators and Assignment Operators-checkpoint.ipynb
+│           2. Logical Operators or Bitwise Operators-checkpoint.ipynb
+│           3. Membership Operators-checkpoint.ipynb
+│           4. Identity Operators-checkpoint.ipynb
+│           5. Operator precedence -checkpoint.ipynb
+│           6. Evaluating Expressions-checkpoint.ipynb
+│
+└───5. Python Conditional Statements
+    │   .~Untitled.ipynb
+    │   1.  IF, ELSE, ELIF, Nested IF & Switch Case Statement.ipynb
+    │
     └───.ipynb_checkpoints
-            1. What is string String operations and indices-checkpoint.ipynb
-            2. String Functions, Methods-checkpoint.ipynb
-            3. Delete a string-checkpoint.ipynb
-            4. String Multiplication and concatenation-checkpoint.ipynb
-            5. Python Keywords-checkpoint.ipynb
-            6. String Formatting Operator With the % Operator-checkpoint.ipynb
-            7. String Interpolation or f-Strings (Python 3.6+)-checkpoint.ipynb
-            8. String + operator-checkpoint.ipynb
-            9. non primitive data types in python-checkpoint.ipynb
-            practice-checkpoint.ipynb
-
-```
+            1.  IF, ELSE, ELIF, Nested IF & Switch Case Statement-checkpoint.ipynb
+****
