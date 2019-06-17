@@ -139,19 +139,39 @@ PythonCourseContent:.
 │   └───__pycache__
 │           constants.cpython-37.pyc
 │
-└───3. String Handling
-    │   1. What is string String operations and indices.ipynb
-    │   2. String Functions, Methods.ipynb
-    │   3. Delete a string.ipynb
-    │   4. String Multiplication and concatenation.ipynb
-    │   5. Python Keywords.ipynb
-    │   6. String Formatting Operator With the % Operator.ipynb
-    │   7. String Interpolation or f-Strings (Python 3.6+).ipynb
-    │   8. String + operator.ipynb
-    │   9. non primitive data types in python.ipynb
-    │   practice.ipynb
-    │   python-string-formatting-flowchart.webp
-    │
+├───3. String Handling
+│   │   1. What is string String operations and indices.ipynb
+│   │   2. String Functions, Methods.ipynb
+│   │   3. Delete a string.ipynb
+│   │   4. String Multiplication and concatenation.ipynb
+│   │   5. Python Keywords.ipynb
+│   │   6. String Formatting Operator With the % Operator.ipynb
+│   │   7. String Interpolation or f-Strings (Python 3.6+).ipynb
+│   │   8. String + operator.ipynb
+│   │   9. non primitive data types in python.ipynb
+│   │   practice.ipynb
+│   │   python-string-formatting-flowchart.webp
+│   │
+│   └───.ipynb_checkpoints
+│           1. What is string String operations and indices-checkpoint.ipynb
+│           2. String Functions, Methods-checkpoint.ipynb
+│           3. Delete a string-checkpoint.ipynb
+│           4. String Multiplication and concatenation-checkpoint.ipynb
+│           5. Python Keywords-checkpoint.ipynb
+│           6. String Formatting Operator With the % Operator-checkpoint.ipynb
+│           7. String Interpolation or f-Strings (Python 3.6+)-checkpoint.ipynb
+│           8. String + operator-checkpoint.ipynb
+│           9. non primitive data types in python-checkpoint.ipynb
+│           practice-checkpoint.ipynb
+│
+├───4. Python Operators and Operands
+│   │   1. Arithmetic, Relational Operators and Assignment Operators.ipynb
+│   │   2. Logical Operators or Bitwise Operators.ipynb
+│   │   3. Membership Operators.ipynb
+│   │   4. Identity Operators.ipynb
+│   │   5. Operator precedence .ipynb
+│   │   6. Evaluating Expressions.ipynb
+│   │
 │   └───.ipynb_checkpoints
 │           1. Arithmetic, Relational Operators and Assignment Operators-checkpoint.ipynb
 │           2. Logical Operators or Bitwise Operators-checkpoint.ipynb
@@ -166,4 +186,6 @@ PythonCourseContent:.
     │
     └───.ipynb_checkpoints
             1.  IF, ELSE, ELIF, Nested IF & Switch Case Statement-checkpoint.ipynb
+
+
 ****
