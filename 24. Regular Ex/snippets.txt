@@ -13,7 +13,7 @@
 $       - End of a String
 
 []      - Matches Characters in brackets
-[^ ]    - Matches Characters NOT in brackets
+[^ ]    - Matches Chara\w+cters NOT in brackets
 |       - Either Or
 ( )     - Group
 
