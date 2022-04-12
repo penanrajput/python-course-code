@@ -1,4 +1,4 @@
-# What is difference between "==" and "is"
+# 1. What is difference between "==" and "is"
 # "==" checks for equality
 # "is" checks for identity
 
@@ -13,6 +13,7 @@
 l1 = [1, 2, 3, 4, 5]
 l2 = [1, 2, 4, 5]
 
+## 2. Root level Difference
 # == checks for content
 # is checks for memory address
 
