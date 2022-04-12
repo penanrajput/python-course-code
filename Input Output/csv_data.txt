@@ -1,0 +1,9 @@
+No,Days,Languages,Progress
+1,21-12-2018,C++,Completed
+2,22-12-2018,Java,Completed
+3,23-12-2018,SQL,Completed
+4,24-12-2018,Python,Completed
+5,25-12-2018,JavaScript,Completed
+6,26-12-2018,R,Ongoing
+7,27-12-2018,Ruby,-
+8,28-12-2018,Github,-
